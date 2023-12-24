@@ -1,0 +1,7 @@
+thrift --gen js:node tdmeta.thrift 
+thrift -out py --gen py tdmeta.thrift 
+#thrift --gen js:node shared.thrift 
+#thrift -out py --gen py shared.thrift 
+
+#electron-rebuild -o node-pty -v 15.3.5
+#electron-rebuild -o node-pty #这样可以解决难题

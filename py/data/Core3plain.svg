@@ -1,0 +1,1524 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="322.80515mm"
+   height="581.07434mm"
+   viewBox="0 0 322.80515 581.07434"
+   version="1.1"
+   id="svg22474"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Core3plain.svg">
+  <defs
+     id="defs22468">
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="Arrow1Lstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.8,0,0,0.8,3,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         id="path_arrowstart-26"
+         d="M 0,0 1.5,-1.5 -3.75,0 1.5,1.5 Z" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-3,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;marker-start:none"
+         id="path_arrowend-88"
+         d="M 0,0 1.5,-1.5 -3.75,0 1.5,1.5 Z" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="388.62316"
+     inkscape:cy="779.83183"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg22474"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1440"
+     inkscape:window-height="805"
+     inkscape:window-x="37"
+     inkscape:window-y="39"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata22471">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       y="58.754711"
+       x="115.69116"
+       style="font-size:3.17499995px;fill:#0000ff;stroke-width:0.26458332"
+       id="rxn01977nm">rxn01977</text>
+    <text
+       y="40.233875"
+       x="141.09116"
+       style="font-size:3.17499995px;fill:#ff00ff;stroke-width:0.26458332"
+       id="rxn01977_f_0">D-glucose-6-phosphate[c0]</text>
+    <path
+       d="m 135.86368,45.49894 0,31.749996"
+       id="p_rxn01977"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       inkscape:connector-curvature="0" />
+    <circle
+       cx="136.12827"
+       cy="41.794765"
+       id="cir_rxn01977"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       r="2.54" />
+    <text
+       id="rxn00558nm"
+       style="font-size:3.17499995px;fill:#0000ff"
+       x="84.30706"
+       y="99.457504">rxn00558</text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       id="p_rxn00558"
+       d="m 103.35706,83.582507 0,31.750003"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       id="cir_rxn00558"
+       cy="78.844719"
+       cx="103.35706"
+       r="2.54" />
+    <text
+       id="rxn00216nm"
+       style="font-size:3.17499995px;fill:#0000ff"
+       x="83.959236"
+       y="58.662754">rxn00216</text>
+    <text
+       id="rxn00216_f_0"
+       style="font-size:3.17499995px;fill:#00be00"
+       x="118.00937"
+       y="47.652058">ATP[c0]</text>
+    <text
+       id="rxn00216_f_1"
+       style="font-size:3.17499995px;fill:#00ff3f"
+       x="108.14914"
+       y="39.794331">D-Glucose[c0]</text>
+    <text
+       id="rxn00216_b_0"
+       style="font-size:3.17499995px;fill:#00007f"
+       x="82.48912"
+       y="68.176743">H+[c0]</text>
+    <text
+       id="rxn00216_b_1"
+       style="font-size:3.17499995px;fill:#003fbe"
+       x="111.8345"
+       y="70.421791">ADP[c0]</text>
+    <text
+       id="rxn00216_b_2"
+       style="font-size:3.17499995px;fill:#3f0000"
+       x="52.152271"
+       y="80.524597">D-glucose-6-phosphate[c0]</text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       id="p_rxn00216"
+       d="m 103.00923,42.78775 0,31.750004"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       id="ps_rxn00216"
+       d="m 109.62382,46.7565 c -6.61459,0 -6.61459,0 -6.61459,11.906255 0,9.260416 0,9.260416 6.61459,9.260416"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-end:url(#Arrow1Lend)"
+       id="pl_rxn00216"
+       d="m 103.00923,58.662755 c 0,9.260416 0,9.260416 -6.614578,9.260416"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       id="cir_rxn00216"
+       cy="38.798298"
+       cx="102.63506"
+       r="2.54" />
+    <text
+       id="rxn00608nm"
+       style="font-size:3.17499995px;fill:#0000ff"
+       x="57.392662"
+       y="53.07478">rxn00608</text>
+    <text
+       id="rxn00608_f_0"
+       style="font-size:3.17499995px;fill:#3f3f00"
+       x="45.044807"
+       y="43.560795">H2O[c0]</text>
+    <text
+       id="rxn00608_f_1"
+       style="font-size:3.17499995px;fill:#7f0000"
+       x="-0.1751831"
+       y="55.160282">cellobiose_6-phoshate[c0]</text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-end:url(#Arrow1Lend)"
+       id="p_rxn00608"
+       d="m 51.141354,55.724533 c 29.568801,0.07634 44.185152,7.171191 49.336326,18.708867"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-end:url(#Arrow1Lend)"
+       id="ps_rxn00608"
+       d="m 55.110104,49.10995 c 0,6.614583 0,6.614583 11.90625,6.614583 9.260417,0 24.040412,-2.057974 31.336879,-10.917623"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+    <circle
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       id="cir_rxn00608"
+       cy="45.468121"
+       cx="-54.976177"
+       r="2.54"
+       transform="matrix(0,-1,1,0,0,0)" />
+    <text
+       y="334.73892"
+       x="103.09237"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn00459nm">rxn00459</text>
+    <text
+       y="341.57657"
+       x="131.94647"
+       style="font-size:3.17499995px;fill:#7f7f00"
+       id="rxn00459_b_0">H2O[c0]</text>
+    <text
+       y="355.13257"
+       x="128.47646"
+       style="font-size:3.17499995px;fill:#bebe00"
+       id="rxn00459_b_1">Phosphoenolpyruvate[c0]</text>
+    <path
+       d="m 122.14237,318.86391 0,31.75"
+       id="p_rxn00459"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 122.14237,332.09308 c 0,9.26042 0,9.26042 6.61458,9.26042"
+       id="ps_rxn00459"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-end:url(#Arrow1Lend)"
+       inkscape:connector-curvature="0" />
+    <circle
+       cx="122.14236"
+       cy="353.78891"
+       id="cir_rxn00459"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       r="2.54" />
+    <text
+       y="368.70276"
+       x="103.09237"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn00148nm">rxn00148</text>
+    <text
+       y="386.2659"
+       x="132.61432"
+       style="font-size:3.17499995px;fill:#3f0000"
+       id="rxn00148_f_0">ATP[c0]</text>
+    <text
+       y="389.06039"
+       x="94.81588"
+       style="font-size:3.17499995px;fill:#be0000"
+       id="rxn00148_f_1">Pyruvate[c0]</text>
+    <text
+       y="363.79187"
+       x="102.12327"
+       style="font-size:3.17499995px;fill:#ff0000"
+       id="rxn00148_b_0">H+[c0]</text>
+    <text
+       y="364.09311"
+       x="133.96422"
+       style="font-size:3.17499995px;fill:#007f00"
+       id="rxn00148_b_1">ADP[c0]</text>
+    <path
+       d="m 122.14237,389.33162 0,-31.75"
+       id="p_rxn00148"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 128.75695,385.36287 c -6.61458,0 -6.61458,0 -6.61458,-11.90625 0,-9.26042 0,-9.26042 6.61458,-9.26042"
+       id="ps_rxn00148"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 122.14237,373.45662 c 0,-9.26042 0,-9.26042 -6.61459,-9.26042"
+       id="pl_rxn00148"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-end:url(#Arrow1Lend)"
+       inkscape:connector-curvature="0" />
+    <circle
+       cx="122.14236"
+       cy="-392.3634"
+       id="cir_rxn00148"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       r="2.54"
+       transform="scale(1,-1)" />
+    <text
+       y="196.26294"
+       x="95.47065"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn00747nm">rxn00747</text>
+    <text
+       y="198.9662"
+       x="34.521019"
+       style="font-size:3.17499995px;fill:#0000be"
+       id="rxn00747_b_0">Glycerone-phosphate[c0]</text>
+    <path
+       d="m 86.263153,199.12044 31.749997,0"
+       id="p_rxn00747"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       inkscape:connector-curvature="0" />
+    <circle
+       cx="-199.12044"
+       cy="121.18815"
+       id="cir_rxn00747"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       r="2.54"
+       transform="matrix(0,-1,1,0,0,0)" />
+    <text
+       y="100.96127"
+       x="124.98022"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn02380nm">rxn02380</text>
+    <text
+       y="84.658974"
+       x="143.955"
+       style="font-size:3.17499995px;fill:#00bebe"
+       id="rxn02380_f_0">beta-D-Glucose_6-phosphate[c0]</text>
+    <path
+       d="M 132.35368,89.260769 111.2064,112.94315"
+       id="p_rxn02380"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       inkscape:connector-curvature="0" />
+    <circle
+       cx="158.44009"
+       cy="-26.337667"
+       id="cir_rxn02380"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       r="2.5400002"
+       transform="matrix(0.74590186,0.66605586,-0.66605586,0.74590186,0,0)" />
+    <text
+       y="218.82487"
+       x="103.39362"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn00781nm">rxn00781</text>
+    <text
+       y="207.76981"
+       x="91.343842"
+       style="font-size:3.17499995px;fill:#007f00"
+       id="rxn00781_f_0">Phosphate[c0]</text>
+    <text
+       y="208.07101"
+       x="131.08563"
+       style="font-size:3.17499995px;fill:#00be3f"
+       id="rxn00781_f_1">NAD[c0]</text>
+    <text
+       y="200.84122"
+       x="129.89174"
+       style="font-size:3.17499995px;fill:#00007f"
+       id="rxn00781_f_2">Glyceraldehyde3-phosphate[c0]</text>
+    <text
+       y="227.77122"
+       x="101.52079"
+       style="font-size:3.17499995px;fill:#ff0000"
+       id="rxn00781_b_0">H+[c0]</text>
+    <text
+       y="228.67499"
+       x="131.85551"
+       style="font-size:3.17499995px;fill:#003fbe"
+       id="rxn00781_b_1">NADH[c0]</text>
+    <path
+       d="m 122.44362,202.94988 0,31.75"
+       id="p_rxn00781"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 129.0582,206.91863 c -6.61458,0 -6.61458,0 -6.61458,11.90625 0,9.26042 0,9.26042 6.61458,9.26042"
+       id="ps_rxn00781"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 115.82904,206.91863 c 6.61458,0 6.61458,0 6.61458,11.90625 0,9.26042 0,9.26042 -6.61458,9.26042"
+       id="pl_rxn00781"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       inkscape:connector-curvature="0" />
+    <circle
+       cx="122.44362"
+       cy="237.87488"
+       id="cir_rxn00781"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       r="2.54" />
+    <text
+       y="257.90991"
+       x="103.39365"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn01100nm">rxn01100</text>
+    <text
+       y="268.24319"
+       x="135.02431"
+       style="font-size:3.17499995px;fill:#3f0000"
+       id="rxn01100_f_0">ATP[c0]</text>
+    <text
+       y="279.08801"
+       x="130.21547"
+       style="font-size:3.17499995px;fill:#7f007f"
+       id="rxn01100_f_1">3-Phosphoglycerate[c0]</text>
+    <text
+       y="246.37164"
+       x="134.35646"
+       style="font-size:3.17499995px;fill:#007f00"
+       id="rxn01100_b_0">ADP[c0]</text>
+    <text
+       y="238.84052"
+       x="129.68147"
+       style="font-size:3.17499995px;fill:#3f003f"
+       id="rxn01100_b_1">1,3-Bisphospho-D-glycerate[c0]</text>
+    <path
+       d="m 122.44365,242.0349 0,31.75"
+       id="p_rxn01100"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 129.05823,246.00365 c -6.61458,0 -6.61458,0 -6.61458,11.90625 0,9.26042 0,9.26042 6.61458,9.26042"
+       id="ps_rxn01100"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       inkscape:connector-curvature="0" />
+    <circle
+       cx="122.44365"
+       cy="276.9599"
+       id="cir_rxn01100"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       r="2.54" />
+    <text
+       y="295.89774"
+       x="103.09236"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn01106nm">rxn01106</text>
+    <text
+       y="317.37704"
+       x="131.10809"
+       style="font-size:3.17499995px;fill:#3f3f00"
+       id="rxn01106_f_0">2-Phospho-D-glycerate[c0]</text>
+    <path
+       d="m 122.14236,280.02275 0,31.75"
+       id="p_rxn01106"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       inkscape:connector-curvature="0" />
+    <circle
+       cx="122.14236"
+       cy="314.94775"
+       id="cir_rxn01106"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       r="2.54" />
+    <text
+       y="21.656172"
+       x="117.03729"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn00704nm">rxn00704</text>
+    <text
+       y="4.4582648"
+       x="142.17271"
+       style="font-size:3.17499995px;fill:#ff00ff"
+       id="rxn00704_f_0">Glucose-1-phosphate[c0]</text>
+    <path
+       d="m 136.08729,5.7811796 0,31.7500004"
+       id="p_rxn00704"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       inkscape:connector-curvature="0" />
+    <circle
+       cx="136.0873"
+       cy="2.6061835"
+       id="cir_rxn00704"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       r="2.54" />
+    <text
+       y="518.47931"
+       x="229.85631"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn00285nm">rxn00285</text>
+    <text
+       y="509.21582"
+       x="220.6277"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn00285_f_0">ATP[c0]</text>
+    <text
+       y="533.0141"
+       x="218.22882"
+       style="font-size:3.17499995px;fill:#003f3f"
+       id="rxn00285_f_1">CoA[c0]</text>
+    <text
+       y="529.53302"
+       x="196.28571"
+       style="font-size:3.17499995px;fill:#007f7f"
+       id="rxn00285_f_2">Succinate[c0]</text>
+    <text
+       y="510.5401"
+       x="246.16812"
+       style="font-size:3.17499995px;fill:#00bebe"
+       id="rxn00285_b_0">ADP[c0]</text>
+    <text
+       y="534.03717"
+       x="239.38441"
+       style="font-size:3.17499995px;fill:#00ffff"
+       id="rxn00285_b_1">Phosphate[c0]</text>
+    <text
+       y="526.50604"
+       x="261.42923"
+       style="font-size:3.17499995px;fill:#000000"
+       id="rxn00285_b_2">Succinyl-CoA[c0]</text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 215.43048,521.76212 c 16.17007,1.63626 31.05052,-0.10259 45.1359,-3.92223"
+       id="p_rxn00285"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 226.49708,516.2776 c 0.57264,6.58975 0.57264,6.58975 12.43419,5.559 9.22564,-0.80169 9.22564,-0.80169 8.65301,-7.39144"
+       id="ps_rxn00285"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 227.64235,529.4571 c -0.57263,-6.58975 -0.57263,-6.58975 11.28892,-7.6205 9.22564,-0.80169 9.22564,-0.80169 9.79828,5.78806"
+       id="pl_rxn00285"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+    <circle
+       r="2.54"
+       cx="-536.9472"
+       cy="219.74019"
+       id="cir_rxn00285"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       transform="matrix(-0.08657189,-0.99624561,0.99624561,-0.08657189,0,0)" />
+    <text
+       y="409.61215"
+       x="203.1021"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn00256nm">rxn00256</text>
+    <text
+       y="415.728"
+       x="195.26974"
+       style="font-size:3.17499995px;fill:#7f007f"
+       id="rxn00256_f_0">H2O[c0]</text>
+    <text
+       y="387.3407"
+       x="171.9644"
+       style="font-size:3.17499995px;fill:#be00be"
+       id="rxn00256_f_1">Acetyl-CoA[c0]</text>
+    <text
+       y="408.26224"
+       x="220.51997"
+       style="font-size:3.17499995px;fill:#3f0000"
+       id="rxn00256_b_0">H+[c0]</text>
+    <text
+       y="388.72278"
+       x="220.10156"
+       style="font-size:3.17499995px;fill:#003f3f"
+       id="rxn00256_b_1">CoA[c0]</text>
+    <text
+       y="414.64236"
+       x="228.69647"
+       style="font-size:3.17499995px;fill:#007f3f"
+       id="rxn00256_b_2">Citrate[c0]</text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 197.83968,403.77408 c 10.66985,-5.32734 21.10557,-6.33455 31.39867,-4.71022"
+       id="p_rxn00256"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-end:url(#Arrow1Lend)"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 201.4759,393.57449 c 0.98129,6.54139 0.98129,6.54139 12.75579,4.77506 9.15793,-1.37382 9.15793,-1.37382 8.17664,-7.91521"
+       id="ps_rxn00256"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-end:url(#Arrow1Lend)" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 203.55597,407.44038 c -0.9813,-6.54139 -0.9813,-6.54139 10.7932,-8.30772 9.15793,-1.37381 9.15793,-1.37381 10.13923,5.16758"
+       id="pl_rxn00256"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-end:url(#Arrow1Lend)" />
+    <circle
+       r="2.54"
+       cx="-434.10233"
+       cy="123.88903"
+       id="cir_rxn00256"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       transform="matrix(-0.14835338,-0.98893441,0.98893441,-0.14835338,0,0)" />
+    <text
+       y="406.44983"
+       x="242.94617"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn00974nm">rxn00974</text>
+    <text
+       y="390.57483"
+       x="242.94617"
+       style="font-size:3.17499995px;fill:#003f7f"
+       id="rxn00974_f_0">Citrate[c0]</text>
+    <text
+       y="422.32483"
+       x="245.59201"
+       style="font-size:3.17499995px;fill:#7f007f"
+       id="rxn00974_b_0">H2O[c0]</text>
+    <text
+       y="409.97012"
+       x="280.72778"
+       style="font-size:3.17499995px;fill:#00be3f"
+       id="rxn00974_b_1">cis-Aconitate[c0]</text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 245.74142,397.049 c 11.37126,1.43772 20.98578,5.87282 28.7668,13.43628"
+       id="p_rxn00974"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 262.19361,401.3886 c 8.39032,3.91891 8.39032,3.91891 11.18954,-2.07417"
+       id="ps_rxn00974"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-end:url(#Arrow1Lend)" />
+    <circle
+       r="2.54"
+       cx="-261.17947"
+       cy="382.76639"
+       id="cir_rxn00974"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       transform="matrix(0.42318978,-0.90604106,0.90604106,0.42318978,0,0)" />
+    <text
+       y="431.82129"
+       x="270.43878"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn01388nm">rxn01388</text>
+    <text
+       y="451.09326"
+       x="301.96454"
+       style="font-size:3.17499995px;fill:#00007f"
+       id="rxn01388_f_0">Isocitrate[c0]</text>
+    <text
+       y="422.56085"
+       x="298.85907"
+       style="font-size:3.17499995px;fill:#7f007f"
+       id="rxn01388_b_0">H2O[c0]</text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 296.83196,447.9577 c -0.16667,-12.80835 -5.66646,-22.30729 -13.20385,-28.87422"
+       id="p_rxn01388"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 294.95156,434.43569 c -3.85112,-8.42165 -3.85112,-8.42165 2.16434,-11.17245"
+       id="ps_rxn01388"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-end:url(#Arrow1Lend)" />
+    <circle
+       r="2.54"
+       cx="81.326431"
+       cy="-493.54663"
+       id="cir_rxn01388"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       transform="matrix(0.90942445,-0.41586917,-0.41586917,-0.90942445,0,0)" />
+    <text
+       y="488.05203"
+       x="141.50206"
+       style="font-size:3.17499995px;fill:#0000ff;stroke-width:0.26458332"
+       id="rxn00799nm">rxn00799</text>
+    <text
+       y="464.3447"
+       x="130.65727"
+       style="font-size:3.17499995px;fill:#7f0000;stroke-width:0.26458332"
+       id="rxn00799_f_0">L-Malate[c0]</text>
+    <text
+       y="483.44241"
+       x="170.95865"
+       style="font-size:3.17499995px;fill:#7f007f;stroke-width:0.26458332"
+       id="rxn00799_b_0">H2O[c0]</text>
+    <text
+       y="503.92703"
+       x="156.94507"
+       style="font-size:3.17499995px;fill:#be0000;stroke-width:0.26458332"
+       id="rxn00799_b_1">Fumarate[c0]</text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 158.87284,465.08901 c 0.028,13.51275 3.7915,26.11803 9.69564,31.25544"
+       id="p_rxn00799"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 161.32355,481.73162 c 3.00166,8.76044 3.00166,8.76044 9.25912,6.61639"
+       id="ps_rxn00799"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-end:url(#Arrow1Lend)" />
+    <circle
+       r="2.5400002"
+       cx="44.305462"
+       cy="525.4873"
+       id="cir_rxn00799"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229167;stroke-opacity:0.5"
+       transform="matrix(0.97067466,-0.24039696,0.24039696,0.97067466,0,0)" />
+    <text
+       id="rxn08527nm"
+       style="font-size:3.17499995px;fill:#0000ff"
+       x="172.16437"
+       y="517.8786">rxn08527</text>
+    <text
+       id="rxn08527_f_1"
+       style="font-size:3.17499995px;fill:#00bebe"
+       x="181.42477"
+       y="499.35782">Menaquinol_8[c0]</text>
+    <text
+       id="rxn08527_b_1"
+       style="font-size:3.17499995px;fill:#00003f"
+       x="194.12477"
+       y="513.90985">Menaquinone_8[c0]</text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       id="p_rxn08527"
+       d="m 177.64865,505.17746 c 8.26334,10.21569 17.75074,13.21328 27.21373,16.35468"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       id="ps_rxn08527"
+       d="m 186.26111,503.19473 c -3.40723,5.66953 0.01,9.90091 5.28769,12.52319 5.32921,2.64775 9.44757,4.04946 12.85479,-1.62007"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+    <circle
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       id="cir_rxn08527"
+       cy="449.00162"
+       cx="-339.69458"
+       r="2.54"
+       transform="matrix(0.515108,-0.85712528,0.85712528,0.515108,0,0)" />
+    <text
+       id="rxn08528nm"
+       style="font-size:3.17499995px;fill:#0000ff"
+       x="224.2872"
+       y="559.41821">rxn08528</text>
+    <text
+       id="rxn08528_f_0"
+       style="font-size:3.17499995px;fill:#bebe00"
+       x="224.2872"
+       y="543.54321">Fumarate[c0]</text>
+    <text
+       id="rxn08528_f_1"
+       style="font-size:3.17499995px;fill:#0000ff"
+       x="246.51219"
+       y="543.54321">2-Demethylmenaquinol_8[c0]</text>
+    <text
+       id="rxn08528_b_0"
+       style="font-size:3.17499995px;fill:#00ffff"
+       x="226.93303"
+       y="575.29321">Succinate[c0]</text>
+    <text
+       id="rxn08528_b_1"
+       style="font-size:3.17499995px;fill:#003f3f"
+       x="261.32886"
+       y="575.29321">2-Demethylmenaquinone_8[c0]</text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       id="p_rxn08528"
+       d="m 243.33719,543.54321 0,31.75"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       id="ps_rxn08528"
+       d="m 249.95177,547.51196 c -6.61458,0 -6.61458,0 -6.61458,11.90625 0,9.26042 0,9.26042 6.61458,9.26042"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       id="cir_rxn08528"
+       cy="578.4682"
+       cx="243.33719"
+       r="2.54" />
+    <text
+       y="434.75839"
+       x="141.59654"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn00248nm">rxn00248</text>
+    <text
+       y="449.00784"
+       x="165.99734"
+       style="font-size:3.17499995px;fill:#00003f"
+       id="rxn00248_f_0">NAD[c0]</text>
+    <text
+       y="425.32886"
+       x="143.0374"
+       style="font-size:3.17499995px;fill:#3f0000"
+       id="rxn00248_b_0">H+[c0]</text>
+    <text
+       y="429.24503"
+       x="179.09578"
+       style="font-size:3.17499995px;fill:#0000be"
+       id="rxn00248_b_1">NADH[c0]</text>
+    <text
+       y="410.86911"
+       x="166.52306"
+       style="font-size:3.17499995px;fill:#ff0000"
+       id="rxn00248_b_2">Oxaloacetate[c0]</text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 159.30178,453.0249 c -2.36883,-12.6959 7.96646,-28.36193 18.23738,-34.33654"
+       id="p_rxn00248"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 164.29036,445.65771 c -5.63256,-3.468 -5.63256,-3.468 0.60983,-13.60659 4.8552,-7.88559 4.8552,-7.88559 10.48776,-4.41759"
+       id="ps_rxn00248"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 163.35774,434.08984 c 0,-9.26042 0,-9.26042 -6.61458,-9.26042"
+       id="pl_rxn00248"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-end:url(#Arrow1Lend)" />
+    <circle
+       r="2.54"
+       cx="158.23659"
+       cy="-458.41904"
+       id="cir_rxn00248"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       transform="scale(1,-1)" />
+    <text
+       y="108.75303"
+       x="186.03853"
+       style="font-size:4.0226717px;fill:#0000ff"
+       id="rxn00777nm"
+       transform="scale(1.1282143,0.88635644)">rxn00777</text>
+    <path
+       inkscape:connector-curvature="0"
+       d="M 196.44161,81.502278 221.39267,111.2856"
+       id="p_rxn00777"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.67044532;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+    <text
+       y="116.55096"
+       x="240.17883"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn00770nm">rxn00770</text>
+    <text
+       y="129.8586"
+       x="231.65836"
+       style="font-size:3.17499995px;fill:#00003f"
+       id="rxn00770_f_0">ATP[c0]</text>
+    <text
+       y="106.86452"
+       x="254.32732"
+       style="font-size:3.17499995px;fill:#0000be"
+       id="rxn00770_b_0">H+[c0]</text>
+    <text
+       y="119.21922"
+       x="273.6105"
+       style="font-size:3.17499995px;fill:#007f00"
+       id="rxn00770_b_1">PRPP[c0]</text>
+    <text
+       y="131.14789"
+       x="255.15694"
+       style="font-size:3.17499995px;fill:#00be00"
+       id="rxn00770_b_2">AMP[c0]</text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 233.04091,118.1304 31.75,0"
+       id="p_rxn00770"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 237.00966,124.74498 c 0,-6.61458 0,-6.61458 11.90625,-6.61458 9.26042,0 9.26042,0 9.26042,6.61458"
+       id="ps_rxn00770"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 248.91591,118.1304 c 9.26042,0 9.26042,0 9.26042,-6.61459"
+       id="pl_rxn00770"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-end:url(#Arrow1Lend)" />
+    <circle
+       r="2.54"
+       cx="118.13039"
+       cy="267.96591"
+       id="cir_rxn00770"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       transform="matrix(0,1,1,0,0,0)" />
+    <text
+       y="155.59943"
+       x="188.84299"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn01333nm">rxn01333</text>
+    <text
+       y="166.78819"
+       x="141.00497"
+       style="font-size:3.17499995px;fill:#7f007f"
+       id="rxn01333_b_0">D-fructose-6-phosphate[c0]</text>
+    <text
+       y="167.85324"
+       x="228.75471"
+       style="font-size:3.17499995px;fill:#be00be"
+       id="rxn01333_b_1">D-Erythrose4-phosphate[c0]</text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 217.91576,143.05415 c -6.61458,0 -10.66181,-0.85204 -10.66181,11.05421 0,9.26041 4.04723,10.11245 10.66181,10.11245"
+       id="ps_rxn01333"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       sodipodi:nodetypes="csc" />
+    <circle
+       r="2.54"
+       cx="223.01685"
+       cy="165.48991"
+       id="cir_rxn01333"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5" />
+    <path
+       sodipodi:nodetypes="csc"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       id="path19834"
+       d="m 196.30101,142.84113 c 6.61459,0 10.66181,-0.85204 10.66181,11.05421 0,9.26042 -4.04722,10.11246 -10.66181,10.11246"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       id="circle19836"
+       cy="165.27692"
+       cx="190.85204"
+       r="2.54" />
+    <text
+       y="97.009903"
+       x="172.015"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn01116nm">rxn01116</text>
+    <text
+       y="73.040443"
+       x="173.29308"
+       style="font-size:3.17499995px;fill:#3f0000"
+       id="rxn01116_f_0">D-Ribulose5-phosphate[c0]</text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 191.065,81.134905 0,31.749995"
+       id="p_rxn01116"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+    <circle
+       r="2.54"
+       cx="191.065"
+       cy="77.93074"
+       id="cir_rxn01116"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5" />
+    <text
+       y="130.4416"
+       x="184.15671"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn01200nm">rxn01200</text>
+    <text
+       y="141.8322"
+       x="132.18178"
+       style="font-size:3.17499995px;fill:#00ff00"
+       id="rxn01200_f_0">Glyceraldehyde3-phosphate[c0]</text>
+    <text
+       y="143.11021"
+       x="229.13364"
+       style="font-size:3.17499995px;fill:#3f003f"
+       id="rxn01200_f_1">Sedoheptulose7-phosphate[c0]</text>
+    <text
+       y="117.56001"
+       x="143.98714"
+       style="font-size:3.17499995px;fill:#7f7f00"
+       id="rxn01200_b_0">D-Xylulose5-phosphate[c0]</text>
+    <text
+       y="114.71143"
+       x="206.93779"
+       style="font-size:3.17499995px;fill:#ff0000"
+       id="rxn01200_b_1">ribose-5-phosphate[c0]</text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 218.34177,118.53536 c -6.61458,0 -11.08783,-0.21301 -11.08783,11.69324 0,9.26041 4.47325,9.47343 11.08783,9.47343"
+       id="ps_rxn01200"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       sodipodi:nodetypes="csc" />
+    <circle
+       r="2.54"
+       cx="223.86888"
+       cy="141.82315"
+       id="cir_rxn01200"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5" />
+    <circle
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       id="circle19838"
+       cy="118.17883"
+       cx="223.65587"
+       r="2.54" />
+    <circle
+       r="2.54"
+       cx="190.42599"
+       cy="118.39183"
+       id="circle19840"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5" />
+    <path
+       sodipodi:nodetypes="csc"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       id="path19828"
+       d="m 195.44895,118.53536 c 6.61458,0 11.08783,-0.21301 11.08783,11.69324 0,9.26041 -4.47325,9.47343 -11.08783,9.47343"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       id="circle19830"
+       cy="140.97113"
+       cx="-189.70885"
+       r="2.54"
+       transform="scale(-1,1)" />
+    <text
+       y="268.9183"
+       x="214.3244"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn02933nm">rxn02933</text>
+    <text
+       y="285.19916"
+       x="244.43398"
+       style="font-size:3.17499995px;fill:#3f0000"
+       id="rxn02933_f_0">NAD[c0]</text>
+    <text
+       y="263.45349"
+       x="213.75464"
+       style="font-size:3.17499995px;fill:#be0000"
+       id="rxn02933_b_0">H+[c0]</text>
+    <text
+       y="266.96143"
+       x="245.12292"
+       style="font-size:3.17499995px;fill:#ff0000"
+       id="rxn02933_b_1">NADH[c0]</text>
+    <text
+       y="255.5607"
+       x="237.93396"
+       style="font-size:3.17499995px;fill:#3f3f00"
+       id="rxn02933_b_2">2-Methylacetoacetyl-CoA[c0]</text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 233.37439,289.54714 0,-31.75"
+       id="p_rxn02933"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 239.98897,285.57839 c -6.61458,0 -6.61458,0 -6.61458,-11.90625 0,-9.26042 0,-9.26042 6.61458,-9.26042"
+       id="ps_rxn02933"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 233.37439,273.67214 c 0,-9.26042 0,-9.26042 -6.61458,-9.26042"
+       id="pl_rxn02933"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-end:url(#Arrow1Lend)" />
+    <circle
+       r="2.54"
+       cx="213.2039"
+       cy="-292.62451"
+       id="cir_rxn02933"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       transform="scale(1,-1)" />
+    <text
+       y="233.73721"
+       x="214.57567"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn00676nm">rxn00676</text>
+    <text
+       y="223.70874"
+       x="243.22363"
+       style="font-size:3.17499995px;fill:#7f7f00"
+       id="rxn00676_f_0">Acetyl-CoA[c0]</text>
+    <text
+       y="217.27756"
+       x="239.33554"
+       style="font-size:3.17499995px;fill:#bebe00"
+       id="rxn00676_f_1">Propionyl-CoA[c0]</text>
+    <text
+       y="243.7657"
+       x="242.65387"
+       style="font-size:3.17499995px;fill:#00003f"
+       id="rxn00676_b_0">CoA[c0]</text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 233.62567,217.86221 0,31.75"
+       id="p_rxn00676"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 240.24025,221.83096 c -6.61458,0 -6.61458,0 -6.61458,11.90625 0,9.26042 0,9.26042 6.61458,9.26042"
+       id="ps_rxn00676"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+    <circle
+       r="2.54"
+       cx="233.62567"
+       cy="252.78722"
+       id="cir_rxn00676"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5" />
+    <text
+       y="193.21742"
+       x="213.11403"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn00671nm">rxn00671</text>
+    <text
+       y="177.34242"
+       x="213.11403"
+       style="font-size:3.17499995px;fill:#00003f"
+       id="rxn00671_f_0">CoA[c0]</text>
+    <text
+       y="177.34242"
+       x="226.07861"
+       style="font-size:3.17499995px;fill:#3f0000"
+       id="rxn00671_f_1">NAD[c0]</text>
+    <text
+       y="177.34242"
+       x="239.0432"
+       style="font-size:3.17499995px;fill:#bebe00"
+       id="rxn00671_f_2">3-Oxo-2-methylpropanoate[c0]</text>
+    <text
+       y="209.09242"
+       x="215.75987"
+       style="font-size:3.17499995px;fill:#ff0000"
+       id="rxn00671_b_0">NADH[c0]</text>
+    <text
+       y="209.09242"
+       x="236.92653"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn00671_b_1">CO2[c0]</text>
+    <text
+       y="209.09242"
+       x="255.44737"
+       style="font-size:3.17499995px;fill:#007f7f"
+       id="rxn00671_b_2">Propionyl-CoA[c0]</text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 232.16403,177.34242 0,31.75"
+       id="p_rxn00671"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 238.77861,181.31117 c -6.61458,0 -6.61458,0 -6.61458,11.90625 0,9.26042 0,9.26042 6.61458,9.26042"
+       id="ps_rxn00671"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 225.54945,181.31117 c 6.61458,0 6.61458,0 6.61458,11.90625 0,9.26042 0,9.26042 -6.61458,9.26042"
+       id="pl_rxn00671"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+    <circle
+       r="2.54"
+       cx="232.16403"
+       cy="212.26743"
+       id="cir_rxn00671"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5" />
+    <text
+       y="360.8063"
+       x="182.3264"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn00178nm-2">rxn00178</text>
+    <text
+       y="359.84335"
+       x="213.03554"
+       style="font-size:3.17499995px;fill:#be0000"
+       id="rxn00178_b_0-4">CoA[c0]</text>
+    <text
+       y="347.86966"
+       x="209.85408"
+       style="font-size:3.17499995px;fill:#003f00"
+       id="rxn00178_b_1-7">Acetoacetyl-CoA[c0]</text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 201.3764,381.43517 0,-31.75"
+       id="p_rxn00178-4"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 201.3764,368.20601 c 0,-9.26042 0,-9.26042 6.61458,-9.26042"
+       id="ps_rxn00178-0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-end:url(#Arrow1Lend)" />
+    <circle
+       r="2.54"
+       cx="201.3764"
+       cy="-385.42459"
+       id="cir_rxn00178-6"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       transform="scale(1,-1)" />
+    <text
+       y="136.21944"
+       x="81.635185"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn00545nm">rxn00545</text>
+    <text
+       y="124.84236"
+       x="81.635185"
+       style="font-size:3.17499995px;fill:#3f0000"
+       id="rxn00545_f_0">ATP[c0]</text>
+    <text
+       y="144.68611"
+       x="111.26852"
+       style="font-size:3.17499995px;fill:#be0000"
+       id="rxn00545_b_0">H+[c0]</text>
+    <text
+       y="146.00903"
+       x="80.312271"
+       style="font-size:3.17499995px;fill:#ff0000"
+       id="rxn00545_b_1">ADP[c0]</text>
+    <text
+       y="152.09444"
+       x="118.67685"
+       style="font-size:3.17499995px;fill:#3f3f00"
+       id="rxn00545_b_2">D-fructose-1,6-bisphosphate[c0]</text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 100.68519,120.34444 0,31.75"
+       id="p_rxn00545"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 94.070605,124.31319 c 6.614585,0 6.614585,0 6.614585,11.90625 0,9.26042 0,9.26042 -6.614585,9.26042"
+       id="ps_rxn00545"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 100.68519,136.21944 c 0,9.26042 0,9.26042 6.61458,9.26042"
+       id="pl_rxn00545"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-end:url(#Arrow1Lend)" />
+    <text
+       y="138.83922"
+       x="83.017746"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn04043nm">rxn04043</text>
+    <text
+       y="127.46213"
+       x="113.18024"
+       style="font-size:3.17499995px;fill:#ff0000"
+       id="rxn04043_f_0">ADP[c0]</text>
+    <text
+       y="121.6413"
+       x="109.74065"
+       style="font-size:3.17499995px;fill:#7f0000"
+       id="rxn04043_f_1">D-fructose-6-phosphate[c0]</text>
+    <text
+       y="150.74547"
+       x="81.430244"
+       style="font-size:3.17499995px;fill:#7f7f00"
+       id="rxn04043_b_0">2 H+[c0]</text>
+    <text
+       y="148.89337"
+       x="110.79899"
+       style="font-size:3.17499995px;fill:#bebe00"
+       id="rxn04043_b_1">AMP[c0]</text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 102.06774,122.96421 0,31.75"
+       id="p_rxn04043"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 108.68232,126.93296 c -6.61458,0 -6.61458,0 -6.61458,11.90625 0,9.26042 0,9.26042 6.61458,9.26042"
+       id="ps_rxn04043"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 102.06774,138.83921 c 0,9.26042 0,9.26042 -6.614581,9.26042"
+       id="pl_rxn04043"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-end:url(#Arrow1Lend)" />
+    <circle
+       r="2.54"
+       cx="102.06774"
+       cy="157.88921"
+       id="cir_rxn04043"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5" />
+    <text
+       y="140.4664"
+       x="107.62399"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn00549nm">rxn00549</text>
+    <text
+       y="153.69557"
+       x="111.85732"
+       style="font-size:3.17499995px;fill:#00003f"
+       id="rxn00549_f_0">H2O[c0]</text>
+    <text
+       y="130.94141"
+       x="113.44482"
+       style="font-size:3.17499995px;fill:#0000be"
+       id="rxn00549_b_0">Phosphate[c0]</text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 103.65524,154.71421 0,-31.75"
+       id="p_rxn00549"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-end:url(#Arrow1Lend)" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 110.26982,150.74546 c -6.61458,0 -6.61458,0 -6.61458,-11.90625 0,-9.26041 0,-9.26041 6.61458,-9.26041"
+       id="ps_rxn00549"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-end:url(#Arrow1Lend)" />
+    <circle
+       r="2.54"
+       cx="103.65524"
+       cy="-119.78922"
+       id="cir_rxn00549"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       transform="scale(1,-1)" />
+    <text
+       y="172.23807"
+       x="81.713852"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn00786nm">rxn00786</text>
+    <text
+       y="161.41446"
+       x="106.78373"
+       style="font-size:3.17499995px;fill:#00007f"
+       id="rxn00786_f_0">D-fructose-1,6-bisphosphate[c0]</text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 102.44765,162.537 c 0.17776,26.57475 -4.980291,30.55665 -14.031649,33.43379"
+       id="p_rxn00786"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 102.07347,175.2049 c 0,9.26041 6.73519,16.55687 15.78193,19.73738"
+       id="ps_rxn00786"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-end:url(#Arrow1Lend)"
+       sodipodi:nodetypes="cc" />
+    <circle
+       r="2.54"
+       cx="81.867897"
+       cy="197.46199"
+       id="cir_rxn00786"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5" />
+    <text
+       y="474.57913"
+       x="253.35214"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn00336nm">rxn00336</text>
+    <text
+       y="473.24194"
+       x="220.79683"
+       style="font-size:3.17499995px;fill:#7f007f"
+       id="rxn00336_b_1">Glyoxalate[c0]</text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 291.38073,457.60052 -37.43303,28.72395 -39.83568,30.5676"
+       id="p_rxn00336"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       sodipodi:nodetypes="ccc" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 261.96059,480.18499 c -6.71212,6.37986 -18.6858,1.51556 -23.24285,-3.27882"
+       id="ps_rxn00336"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-end:url(#Arrow1Lend)"
+       sodipodi:nodetypes="cc" />
+    <circle
+       r="2.5400002"
+       cx="-532.39172"
+       cy="96.109985"
+       id="cir_rxn00336"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       transform="matrix(-0.68893913,-0.7248192,-0.7248192,0.68893913,0,0)" />
+    <text
+       y="327.28552"
+       x="182.38286"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn01453nm">rxn01453</text>
+    <text
+       y="316.64902"
+       x="211.5687"
+       style="font-size:3.17499995px;fill:#00ff00"
+       id="rxn01453_f_0">NADP[c0]</text>
+    <text
+       y="309.40347"
+       x="145.60901"
+       style="font-size:3.17499995px;fill:#007f00"
+       id="rxn01453_f_1">(R)-3-Hydroxybutanoyl-CoA[c0]</text>
+    <text
+       y="338.29623"
+       x="179.41603"
+       style="font-size:3.17499995px;fill:#00007f"
+       id="rxn01453_b_0">H+[c0]</text>
+    <text
+       y="338.29623"
+       x="213.62573"
+       style="font-size:3.17499995px;fill:#007f00"
+       id="rxn01453_b_1">NADPH[c0]</text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 201.43286,311.41053 0,31.75"
+       id="p_rxn01453"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 208.04744,315.37928 c -6.61458,0 -6.61458,0 -6.61458,11.90625 0,9.26042 0,9.26042 6.61458,9.26042"
+       id="ps_rxn01453"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 201.43286,327.28553 c 0,9.26042 0,9.26042 -6.61458,9.26042"
+       id="pl_rxn01453"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-end:url(#Arrow1Lend)" />
+    <circle
+       r="2.54"
+       cx="201.43286"
+       cy="346.33551"
+       id="cir_rxn01453"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5" />
+    <text
+       y="288.51883"
+       x="171.11494"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="PHB_synthesisnm">PHB_synthesis</text>
+    <text
+       y="284.81464"
+       x="210.0087"
+       style="font-size:3.17499995px;fill:#00bebe"
+       id="PHB_synthesis_b_0">CoA[c0]</text>
+    <text
+       y="271.58548"
+       x="194.39828"
+       style="font-size:3.17499995px;fill:#be00be"
+       id="PHB_synthesis_b_1">PHB[c0]</text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 201.27749,306.73538 0,-31.75"
+       id="p_PHB_synthesis"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-end:url(#Arrow1Lend)" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 201.27749,293.50622 c 0,-9.26042 0,-9.26042 6.61459,-9.26042"
+       id="ps_PHB_synthesis"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-end:url(#Arrow1Lend)" />
+    <circle
+       r="2.54"
+       cx="201.54208"
+       cy="-308.85205"
+       id="cir_PHB_synthesis"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       transform="scale(1,-1)" />
+    <text
+       y="313.65424"
+       x="212.38995"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="PHBV_synthesisnm">PHBV_synthesis</text>
+    <text
+       y="298.04379"
+       x="193.33995"
+       style="font-size:3.17499995px;fill:#007f3f"
+       id="PHBV_synthesis_f_1">2-methyl-3-hydroxy-butyryl-CoA[c0]</text>
+    <text
+       y="301.74799"
+       x="235.14412"
+       style="font-size:3.17499995px;fill:#00ff3f"
+       id="PHBV_synthesis_b_0">2 CoA[c0]</text>
+    <text
+       y="309.68549"
+       x="249.43161"
+       style="font-size:3.17499995px;fill:#003fbe"
+       id="PHBV_synthesis_b_1">PHBV[c0]</text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 206.80724,308.75945 31.75,0"
+       id="p_PHBV_synthesis"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-end:url(#Arrow1Lend)" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 210.77599,302.14486 c 0,6.61459 0,6.61459 11.90625,6.61459 9.26041,0 9.26041,0 9.26041,-6.61459"
+       id="ps_PHBV_synthesis"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-end:url(#Arrow1Lend)" />
+    <circle
+       r="2.54"
+       cx="-308.75943"
+       cy="241.73224"
+       id="cir_PHBV_synthesis"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       transform="matrix(0,-1,1,0,0,0)" />
+    <text
+       y="391.3168"
+       x="147.54134"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn00258nm">rxn00258</text>
+    <text
+       y="405.82755"
+       x="135.86659"
+       style="font-size:3.17499995px;fill:#003f3f"
+       id="rxn00258_f_1">Malonyl-CoA[c0]</text>
+    <text
+       y="407.1918"
+       x="187.22884"
+       style="font-size:3.17499995px;fill:#007f7f"
+       id="rxn00258_b_1">Oxaloacetate[c0]</text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 196.95268,390.17027 c -15.87044,3.79406 -47.44302,4.31079 -64.4095,3.7207"
+       id="p_rxn00258"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 184.30229,406.70672 c -3.92741,-8.68164 -7.74994,-13.64794 -21.0013,-12.81575 -8.96236,0.56284 -12.98112,3.92741 -16.0817,7.44141"
+       id="ps_rxn00258"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       sodipodi:nodetypes="csc" />
+    <circle
+       r="2.54"
+       cx="393.06415"
+       cy="-128.33466"
+       id="cir_rxn00258"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <text
+       y="179.79575"
+       x="235.11861"
+       style="font-size:3.17499995px;fill:#0000ff"
+       id="rxn00678nm">rxn00678</text>
+    <text
+       y="163.92075"
+       x="235.11861"
+       style="font-size:3.17499995px;fill:#7f7f00"
+       id="rxn00678_f_0">Pyruvate[c0]</text>
+    <text
+       y="163.92075"
+       x="257.3436"
+       style="font-size:3.17499995px;fill:#00003f"
+       id="rxn00678_f_1">D-methylmalonyl-CoA[c0]</text>
+    <text
+       y="195.67075"
+       x="237.76443"
+       style="font-size:3.17499995px;fill:#00ffff"
+       id="rxn00678_b_0">Oxaloacetate[c0]</text>
+    <text
+       y="195.67075"
+       x="280.09775"
+       style="font-size:3.17499995px;fill:#ff0000"
+       id="rxn00678_b_1">Propionyl-CoA[c0]</text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 254.1686,163.92075 0,31.75"
+       id="p_rxn00678"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 260.78318,167.8895 c -6.61458,0 -6.61458,0 -6.61458,11.90625 0,9.26042 0,9.26042 6.61458,9.26042"
+       id="ps_rxn00678"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+    <circle
+       r="2.54"
+       cx="254.16861"
+       cy="198.84575"
+       id="cir_rxn00678"
+       style="fill:#008000;fill-opacity:0.8;stroke:#808080;stroke-width:0.13229166;stroke-opacity:0.5" />
+  </g>
+</svg>

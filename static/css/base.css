@@ -1,0 +1,42 @@
+
+.reac_path {
+  stroke: #a0a;
+}
+.reac_path:hover {
+  stroke: #bf00ff !important;
+  stroke-width: 0.8px !important;
+}
+.svg_text:hover {
+  fill: #8a2be2 !important;
+  font-size: 10px !important;
+}
+.metabolite:hover {
+  fill: #7fffd4 !important;
+}
+
+.show {
+  z-index: 1000;
+  position: absolute;
+  background-color: #f1f1f1;
+  border: 1px solid #d1d1d1;
+  padding: 2px;
+  display: block;
+  margin: 0;
+  list-style-type: none;
+  list-style: none;
+  font-size: 14px;
+}
+
+.hide {
+  display: none;
+  padding: 5px;
+  margin: 5px;
+}
+.hanging {
+  position: fixed;
+  left: 1em;
+  top: 1em;
+  padding: 1em;
+  border-radius: 1em;
+  z-index: 99;
+}

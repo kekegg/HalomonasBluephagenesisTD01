@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=2">
+    <link rel="icon" href="favicon.ico">
+    <title>Holomonas Metabolit Network</title>
+    <!-- <link href="static/css/base.css" rel="preload" as="style"> -->
+    <link href="static/css/base.css" rel="preload" as="style">
+    <!-- <link href="static/js/app.12be5991.js" rel="preload" as="script">
+    <link href="static/js/chunk-vendors.7eb615b3.js" rel="preload" as="script"> -->
+    <link href="static/css/base.css" rel="stylesheet">
+    <script>window.$ = window.jQuery = require('./static/js/jquery.min.js');</script>
+    
+    <!-- <script>Draggable = require('./node_modules/draggable/dist/draggable.min.js');</script> -->
+
+</head>
+
+<body><noscript><strong>We're sorry but test doesn't work properly without JavaScript enabled. Please enable it to
+            continue.</strong></noscript>
+
+    <!-- <input id="name" ></input> -->
+    <p id="result" color='black'></p>
+    <br>
+    <!-- V2 Chart.js -->
+    
+    <button id="expBtn">load Map</button>
+    <div id="zoomInput" class="hanging"><input type="range" min="1" max="10" value="5" class="slider" id="zoomRanger" oninput="ZoomInput(event)"></div>
+    <object id="myChart" class="box" height="600px" width="800px"></object>
+    <!-- <script src="static/js/chunk-vendors.7eb615b3.js"></script>
+    <script src="static/js/app.12be5991.js"></script> -->
+    <div class="hide" id="bondMenu">
+        <p id="showMeta"></p>
+    </div>
+
+    <script src="./node_modules/draggable/dist/draggable.min.js"></script>
+    <script src="./render.js"></script>
+</body>
+
+</html>
