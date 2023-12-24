@@ -4,7 +4,8 @@ A Visualization tool of Halomonas bluephagenesis TD01 metabolic network based on
 
 ## 原理
 
-![原理](https://gitee.com/isaaccaa/pictures/raw/master/utools/Electron.drawio-1636349316566.png)
+![原理](https://github.com/kekegg/HalomonasBluephagenesisTD01/blob/main/td01_1.png)
+![原理](https://github.com/kekegg/HalomonasBluephagenesisTD01/blob/main/td01_2.png)
 
 ## 环境部署
 
@@ -24,8 +25,8 @@ A Visualization tool of Halomonas bluephagenesis TD01 metabolic network based on
   "scripts": {
     "start": "electron ."
   },
-  "author": "isaac",
-  "license": "ISC"
+  "author": "",
+  "license": ""
 }
 
 ```
@@ -74,250 +75,6 @@ thrift --gen js:node test.thrift
 thrift -out py --gen py test.thrift 
 ```
 
-2. 新建各个模板文件(需要注意的地方已标注)
-
-```
-# Client
-* index.js
-----------
-  function createWindow () {
-    // 创建浏览器窗口。
-    win = new BrowserWindow({width: 800, height: 600, webPreferences:{              // 加上这两行配置
-        nodeIntegration: true,
-        contextIsolation: false
-    }
-    })
-----------
-const createPyProc = () => {
-  // let port = '4242'
-  let script = path.join(__dirname, 'py', 'thrift_server.py')
-  console.log(script);
-  pyProc = require('child_process').spawn('envpy/bin/python', [script])             // 如果要使用虚拟环境中的python,就不能直接写python,[script], 一定要调用虚拟环境中的python,否则必出问题
-  console.log(pyProc)
-  if (pyProc != null) {
-    console.log('child process success')
-  }
-}
-----------
-* render.js
-----------
-var thriftConnection = thrift.createConnection('127.0.0.1', 8000, {                   // 配置传输协议
-  transport: thrift.TBufferedTransport(),
-  protocol: thrift.TBinaryProtocol()
-  });
-----------
-* index.html
-
-# Server
-* py/thrift_server.py
-----------
-from test import userService
-----------
-```
-
-## Chart.js 绘图
-
-### HTML 文件中新增绘图窗口
-
-```html
-<head>
-  <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
-</head>
-<body>
-  <button id="sinBtn">sin</button>
-  <button id="expBtn">exp</button>
-  <canvas id="myChart" height="100"></canvas>
-</body>
-```
-
-### render.js 中绑定按钮
-```js
-let sinBtn = document.querySelector('#sinBtn')
-sinBtn.addEventListener('click',() => {
-  console.log("Draw sin function!");
-
-})
-
-let expBtn = document.querySelector('#expBtn')
-expBtn.addEventListener('click',() => {
-  console.log("Draw exp function!");
-
-})
-```
-
-### render.js 中初始化绘图函数
-
-```js
-var ctx = document.getElementById("myChart").getContext("2d");
-var chart = new Chart(ctx, {
-  // The type of chart we want to create
-  type: "line",
-
-  // The data for our dataset
-  data: {
-    labels: [],     //x轴坐标
-    datasets: [
-      {
-        label:"data", // 一条数据线
-        data:[],      // 数据的y轴坐标
-        fill: false,
-      },
-    ],
-  },
-  // Configuration options go here
-  options: {
-    title: {
-      display: true,
-      text: "A test chartjs",
-    },
-  },
-});
-```
-此时应该是一个空空的图,因为里面还没有数据,首先测试以下不连接Python,向里面加入数据点.
-
-在 sinBtn 函数中尝试向data数据里添加随机数
-```js
-let sinBtn = document.querySelector('#sinBtn')
-sinBtn.addEventListener('click',() => {
-  let datatime = new Date();
-  console.log("Draw sin function!");
-  chart.data.labels.push(datatime.toLocaleTimeString());
-
-  chart.data.datasets.forEach(element => {
-    var ranum = Math.round(Math.random()*10);
-    element.data.push(ranum);
-  });
-  chart.update();
-})
-
-```
-
-### 使用Python计算数据并返回结果
-设计Python程序为接收一个数字,如果数字为0,则返回一组sin数组;若数字是1,则返回一组多项式序列.
-
-为了测试`numpy`的使用,顺便在虚拟环境中安装numpy:
-```
-pip install numpy
-```
-
-修改 thrift 接口文件
-
-```
-service userService {
-    list<double> test1(1:bool typ)
-}
-```
-
-修改 Python 函数:
-
-```python
-class Test:
-    def test1(self, typ):
-        x = np.arange(512)      
-        print(typ)
-        if typ:
-            x = x*x + 5*x + 6 * x*x*x
-            return x.tolist()
-        else:
-            x = np.sin(0.05*x)
-            return x.tolist()
-```
-首先测试通信功能,修改render.js的函数:
-```js
-let sinBtn = document.querySelector('#sinBtn')
-sinBtn.addEventListener('click',() => {
-  // let datatime = new Date();
-  // console.log("Draw sin function!");
-  // chart.data.labels.push(datatime.toLocaleTimeString());
-
-  // chart.data.datasets.forEach(element => {
-  //   var ranum = Math.round(Math.random()*10);
-  //   element.data.push(ranum);
-  // });
-  // chart.update();
-  console.log("Draw sin function!");
-  thriftClient.test1(0, (error, res) => {
-    if(error) {
-      console.error(error);
-    } else {
-      console.log(res)
-    }
-  })
-})
-sinBtn.dispatchEvent(new Event('click'))
-
-let expBtn = document.querySelector('#expBtn')
-expBtn.addEventListener('click',() => {
-  console.log("Draw exp function!");
-  thriftClient.test1(1, (error, res) => {
-    if(error) {
-      console.error(error);
-    } else {
-      console.log(res)
-    }
-  })
-})
-expBtn.dispatchEvent(new Event('click'))
-```
-
-重新生成thrift接口文件,npm start运行后,点击sin /exp按钮应该看到控制台中会输出对应的数字,接下来就只需要刷新到chart.js就行了.
-
-### 使用chart.js显示Python返回的数据
-> Bug: 该函数会在打开时自动执行,目前未发现错误原因
-
-把更新chart.js的代码封装成一个函数
-```js
-function refreshdata(datas) {
-  // Clean
-  chart.data.labels = [];
-  chart.data.datasets.forEach(element => {
-    element.data=[];
-  });
-  for (let i = 0; i < datas.length; i++) {
-    const element = datas[i];
-    // console.log('i',i,'data',element)
-    chart.data.labels.push(i);
-    chart.data.datasets.forEach(element => {
-      element.data.push(datas[i]);
-    });
-  }
-  chart.update();
-}
-```
-在两个按钮的功能函数里调用这个函数
-
-```js
-let sinBtn = document.querySelector('#sinBtn')
-sinBtn.addEventListener('click',() => {
-  console.log("Draw sin function!");
-  thriftClient.test1(0, (error, res) => {
-    if(error) {
-      console.error(error);
-    } else {
-      refreshdata(res);
-    }
-  })
-})
-sinBtn.dispatchEvent(new Event('click'))
-
-let expBtn = document.querySelector('#expBtn')
-expBtn.addEventListener('click',() => {
-  console.log("Draw exp function!");
-  thriftClient.test1(1, (error, res) => {
-    if(error) {
-      console.error(error);
-    } else {
-      refreshdata(res);
-    }
-  })
-})
-expBtn.dispatchEvent(new Event('click'))
-```
-
-现在按下sin, exp按钮应该分别显示对应的函数图像了
-
-![运行测试](https://files.catbox.moe/87e9hf.png)
-
 ## Electron打包
 
 打包分为三步:
@@ -365,14 +122,7 @@ npm install electron-packager
 
 这样会打包本机架构的包,比如在Ubuntu x64 下就会打包出 `electronpy-linux-x64` 文件夹,里面的 `electronpy` 就是编译好的二进制程序了,其他架构下编译出来的文件会有一点不同.
 
-运行试一下
-```
-./electronpy-linux-x64/electronpy 
-```
 
-![运行测试](https://files.catbox.moe/87e9hf.png)
-
-功能正常就撒花完结!
 
 
 ## 参考链接
